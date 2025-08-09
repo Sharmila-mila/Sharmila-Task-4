@@ -1,0 +1,11 @@
+.skills-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.skill-item {
+  padding: 10px;
+  background: #3498db;
+  color: white;
+  border-radius: 5px;
+}
