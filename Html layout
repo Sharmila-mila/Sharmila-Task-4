@@ -1,0 +1,22 @@
+<section id="projects" class="section light grid-layout">
+  <div class="container project-grid">
+    <div class="project-card">
+      <h3>IoT-based Traffic Diversion System</h3>
+      <p>Real-time IoT traffic management system simulation.</p>
+    </div>
+    <div class="project-card">
+      <h3>Fingerprint Sensor using Arduino</h3>
+      <p>Security system integrating fingerprint recognition.</p>
+    </div>
+  </div>
+</section>
+
+
+<section id="skills" class="section list-layout">
+  <div class="container skills-list">
+    <div class="skill-item">Python</div>
+    <div class="skill-item">MS Excel</div>
+    <div class="skill-item">Power BI</div>
+    <div class="skill-item">Teamwork</div>
+  </div>
+</section>
