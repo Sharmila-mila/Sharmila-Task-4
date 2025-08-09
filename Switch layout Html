@@ -1,0 +1,2 @@
+<button onclick="changeLayout('grid')">Grid</button>
+<button onclick="changeLayout('masonry')">Masonry</button>
